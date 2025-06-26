@@ -5,11 +5,14 @@
 <h1>osTicket - LifeCycle Examples Setup</h1>
 </p>
 This tutorial demonstrates the creation of tickets as an end user.
-<p>
-<br />
+<br /> 
+  
+<h2>Video Demonstration</h2>
 
-</p>
-</p>
+- ### [YouTube: Lab 3.3. osTicket Tickets and Ticket Lifeycles | Microsoft Azure | IT Tutorial Speedrun Walkthru](https://youtu.be/JlqS9J5-dM8)
+<h2>Installation Steps (3 Steps)</h2>
+
+<p>
 </p>
 <p>
 1.) Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
