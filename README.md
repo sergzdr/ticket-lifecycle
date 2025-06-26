@@ -41,7 +41,7 @@ This tutorial demonstrates the creation of tickets as an end user.
   - In some ticketing system customers can set their own SLA plans.
     
 </p>
-<br />
+
 <p>
 <img src="https://i.imgur.com/uJtuLaK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
