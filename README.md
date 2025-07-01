@@ -18,7 +18,7 @@ This tutorial demonstrates the creation of tickets as an end user.
 1.) Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
 
 </p>
-<img src="https://i.imgur.com/lRduIb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/003bb80c-11a4-4607-88e9-5b270ab10536" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
@@ -28,7 +28,7 @@ This tutorial demonstrates the creation of tickets as an end user.
 </p>
 
 <p>
-<img src="https://i.imgur.com/ISfE0G7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/914458ff-d61a-453c-bcaf-6812ba3d0746" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
