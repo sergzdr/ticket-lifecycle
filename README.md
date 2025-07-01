@@ -9,7 +9,7 @@ This tutorial demonstrates the creation of tickets as an end user.
   
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Lab 3.3. osTicket Tickets and Ticket Lifeycles | Microsoft Azure | IT Tutorial Speedrun Walkthru](https://youtu.be/JlqS9J5-dM8)
+- ### [YouTube: Lab 3.3. osTicket Tickets and Ticket Lifeycles | Microsoft Azure | IT Tutorial Speedrun w/o Commentary](https://youtu.be/JlqS9J5-dM8)
 <h2>Installation Steps (3 Steps)</h2>
 
 <p>
